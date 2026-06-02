@@ -1,6 +1,0 @@
-{
-  "name": "Optech",
-  "description": "An advanced, beautifully designed utility suite containing a web browser, terminal, calendar, interactive notes pad, advanced calculator, media viewers, and audio listener.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
