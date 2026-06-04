@@ -26,7 +26,7 @@ Optech Apps - Get Oppkg Files and Run them like a native app
 
 Optech UPG - An Optech Feature that manages Visual UIDs PIDs GIDs,  Use this to create Visual IDs!
 
-What are you Waiting for? Joe biden using  Trump mobile? Wait no that won't happen.. whatever but Get Optech Today at https://github.com/Sekid401/optech-tools.
+What are you Waiting for? Joe biden using  Trump mobile? Wait no that won't happen.. whatever but Get Optech Today.
 
 Note: don't try the API in the Second picture, it won't work
 
